@@ -8,8 +8,4 @@ __pycache__/
 .idea/
 .vscode/
 *.sqlite3
-*.db
-/data/raw/exports/
-/data/artifacts/*.png
-/data/artifacts/*.csv
 
